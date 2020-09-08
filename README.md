@@ -28,6 +28,7 @@ Task 4:
 --------
 Create your Resume
 from ppt 001 - DataTypes
+
 Task 5)
 -------
 Use typeof in all the datatypes and check the result
