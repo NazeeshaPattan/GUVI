@@ -1,0 +1,9 @@
+HTTPS 1.1 Vs. HTTPS 2.0
+
+HTTP/1.1 has been around for more than a decade. With Google’s SPDY leading the way in 2015, the IETF (Internet Engineering Task Force) gave us HTTP/2,
+which introduces several features to reduce page load times.
+
+HTTP/2 achieves faster webpage loading without performance optimizations that require extensive human efforts in terms of development.It significantly
+reduces the complexities that had crept into HTTP/1.1 and gives us a robust protocol which, though not without its flaws,perhaps stand the test of time.
+Before making this leap forward, let’s trace our steps back to when the internet was in its infancy to understand how the different versions evolved into
+the current form.
