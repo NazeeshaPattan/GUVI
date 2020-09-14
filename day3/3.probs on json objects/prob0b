@@ -1,0 +1,8 @@
+var obj = {name : "RajiniKanth", age : 33, hasPets : false};
+function printAllValues(obj) {
+var New = [];
+ for(var x in obj){
+    New.push(obj[x]);
+ }console.log(New);
+}
+ printAllValues(obj)
